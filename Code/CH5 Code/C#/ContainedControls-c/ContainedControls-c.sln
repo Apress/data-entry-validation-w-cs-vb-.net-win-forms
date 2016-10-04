@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainedControls-c", "ContainedControls-c.csproj", "{BFE640F0-D48A-46C5-AB26-7CF85DB04188}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BFE640F0-D48A-46C5-AB26-7CF85DB04188}.Debug.ActiveCfg = Debug|.NET
+		{BFE640F0-D48A-46C5-AB26-7CF85DB04188}.Debug.Build.0 = Debug|.NET
+		{BFE640F0-D48A-46C5-AB26-7CF85DB04188}.Release.ActiveCfg = Release|.NET
+		{BFE640F0-D48A-46C5-AB26-7CF85DB04188}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

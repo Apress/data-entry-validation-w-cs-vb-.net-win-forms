@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tracing-vb", "Tracing-vb.vbproj", "{B22B3E09-0F1F-46BD-88C9-5194D68C590B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B22B3E09-0F1F-46BD-88C9-5194D68C590B}.Debug.ActiveCfg = Debug|.NET
+		{B22B3E09-0F1F-46BD-88C9-5194D68C590B}.Debug.Build.0 = Debug|.NET
+		{B22B3E09-0F1F-46BD-88C9-5194D68C590B}.Release.ActiveCfg = Release|.NET
+		{B22B3E09-0F1F-46BD-88C9-5194D68C590B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

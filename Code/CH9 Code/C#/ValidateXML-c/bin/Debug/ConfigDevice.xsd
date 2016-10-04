@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="ConfigDevice" targetNamespace="http://tempuri.org/ConfigDevice.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/ConfigDevice.xsd" xmlns:mstns="http://tempuri.org/ConfigDevice.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ConfigDevice">
+    <xs:sequence>
+      <xs:element name="ConfigDate" type="xs:dateTime" minOccurs="1" maxOccurs="1" />
+      <xs:element name="IP" type="xs:string" maxOccurs="1" minOccurs="1" />
+      <xs:element name="Mode" type="xs:string" minOccurs="1" maxOccurs="1" />
+      <xs:element name="PassWord" type="xs:string" maxOccurs="1" minOccurs="1" />
+      <xs:element name="TimeZoneOffset" type="xs:integer" minOccurs="1" maxOccurs="1" />
+      <xs:element name="RelayDelay" type="xs:double" maxOccurs="1" minOccurs="1" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Device_Configuration" type="ConfigDevice"></xs:element>
+</xs:schema>

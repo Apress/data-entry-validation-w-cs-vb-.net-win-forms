@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDIsample-c", "SDIsample-c.csproj", "{68048899-91ED-4F83-9C0D-CCBEF430B3A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{68048899-91ED-4F83-9C0D-CCBEF430B3A5}.Debug.ActiveCfg = Debug|.NET
+		{68048899-91ED-4F83-9C0D-CCBEF430B3A5}.Debug.Build.0 = Debug|.NET
+		{68048899-91ED-4F83-9C0D-CCBEF430B3A5}.Release.ActiveCfg = Release|.NET
+		{68048899-91ED-4F83-9C0D-CCBEF430B3A5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

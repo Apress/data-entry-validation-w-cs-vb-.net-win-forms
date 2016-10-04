@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseTrap-c", "MouseTrap-c.csproj", "{6A3CB8D9-BE36-4F74-83AA-75B694512441}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6A3CB8D9-BE36-4F74-83AA-75B694512441}.Debug.ActiveCfg = Debug|.NET
+		{6A3CB8D9-BE36-4F74-83AA-75B694512441}.Debug.Build.0 = Debug|.NET
+		{6A3CB8D9-BE36-4F74-83AA-75B694512441}.Release.ActiveCfg = Release|.NET
+		{6A3CB8D9-BE36-4F74-83AA-75B694512441}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

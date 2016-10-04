@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Device_Configuration>
+  <ConfigDate>2003-02-04T00:00:00.0000000-05:00</ConfigDate>
+  <IP>123.456.789.13</IP>
+  <Mode>Dumb</Mode>
+  <PassWord>Abc56def</PassWord>
+  <TimeZoneOffset>-34</TimeZoneOffset>
+  <RelayDelay>21.8567</RelayDelay>
+</Device_Configuration>

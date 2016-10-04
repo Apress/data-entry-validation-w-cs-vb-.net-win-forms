@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrProvider-c", "ErrProvider-c.csproj", "{7DC3C249-5165-4BD4-9784-0CBD63360156}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7DC3C249-5165-4BD4-9784-0CBD63360156}.Debug.ActiveCfg = Debug|.NET
+		{7DC3C249-5165-4BD4-9784-0CBD63360156}.Debug.Build.0 = Debug|.NET
+		{7DC3C249-5165-4BD4-9784-0CBD63360156}.Release.ActiveCfg = Release|.NET
+		{7DC3C249-5165-4BD4-9784-0CBD63360156}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Golf-vb", "Golf-vb.vbproj", "{ACAA652F-91F1-42A2-B5B3-B23C508F9CB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{ACAA652F-91F1-42A2-B5B3-B23C508F9CB8}.Debug.ActiveCfg = Debug|.NET
+		{ACAA652F-91F1-42A2-B5B3-B23C508F9CB8}.Debug.Build.0 = Debug|.NET
+		{ACAA652F-91F1-42A2-B5B3-B23C508F9CB8}.Release.ActiveCfg = Release|.NET
+		{ACAA652F-91F1-42A2-B5B3-B23C508F9CB8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

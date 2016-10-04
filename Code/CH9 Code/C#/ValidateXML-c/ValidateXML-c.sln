@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateXML-c", "ValidateXML-c.csproj", "{0B280136-3F34-4A87-A351-60F78D682AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0B280136-3F34-4A87-A351-60F78D682AA0}.Debug.ActiveCfg = Debug|.NET
+		{0B280136-3F34-4A87-A351-60F78D682AA0}.Debug.Build.0 = Debug|.NET
+		{0B280136-3F34-4A87-A351-60F78D682AA0}.Release.ActiveCfg = Release|.NET
+		{0B280136-3F34-4A87-A351-60F78D682AA0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

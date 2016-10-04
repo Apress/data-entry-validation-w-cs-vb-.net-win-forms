@@ -1,0 +1,19 @@
+Start out with an MDI form
+add a menu
+make an init procedure
+
+menu = 
+File              ScoreCard         Statistics        Help
+  New Course        New Card
+  Open Course       Print Card
+  Close Course      Edit Card
+  --------
+  Save Course
+  Save As
+  --------
+  Exit
+
+Dont forget speedkeys on the menu items and buttons
+use configuration file to determine startup size of form and which course was last played
+Dont forget tab order
+

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTest-c", "TreeTest-c.csproj", "{021BA63B-9BFE-4961-96ED-358B34B76117}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{021BA63B-9BFE-4961-96ED-358B34B76117}.Debug.ActiveCfg = Debug|.NET
+		{021BA63B-9BFE-4961-96ED-358B34B76117}.Debug.Build.0 = Debug|.NET
+		{021BA63B-9BFE-4961-96ED-358B34B76117}.Release.ActiveCfg = Release|.NET
+		{021BA63B-9BFE-4961-96ED-358B34B76117}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

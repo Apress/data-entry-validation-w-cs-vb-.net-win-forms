@@ -1,0 +1,11 @@
+NAME=(french)Name
+DOB=(french)Date of birth
+ADDR=(french)Address
+ADDR1=(french)Address 1
+ADDR2=(french)Address 2
+ADDR3=(french)Address 3
+STARTTIME=(french)Start Time
+ENDTIME=(french)End Time
+MILES=(french)Miles
+CASHBACK=(french)Cash
+CAPTION=(french)Car Milage Expense

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Device_Configuration xmlns="http://tempuri.org/ConfigDevice.xsd">
+  <ConfigDate>2/5/2003</ConfigDate>
+  <IP>123.456.789.13</IP>
+  <Mode>Dumb</Mode>
+  <PassWord>Abc56def</PassWord>
+  <TimeZoneOffset>-34</TimeZoneOffset>
+  <RelayDelay>21.8</RelayDelay>
+</Device_Configuration>

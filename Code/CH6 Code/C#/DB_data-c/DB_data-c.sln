@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_data-c", "DB_data-c.csproj", "{123D5108-6D9B-4CC5-8655-0CC64192E105}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{123D5108-6D9B-4CC5-8655-0CC64192E105}.Debug.ActiveCfg = Debug|.NET
+		{123D5108-6D9B-4CC5-8655-0CC64192E105}.Debug.Build.0 = Debug|.NET
+		{123D5108-6D9B-4CC5-8655-0CC64192E105}.Release.ActiveCfg = Release|.NET
+		{123D5108-6D9B-4CC5-8655-0CC64192E105}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

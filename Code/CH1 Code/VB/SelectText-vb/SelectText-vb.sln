@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SelectText-vb", "SelectText-vb.vbproj", "{FBD43566-7BDD-4177-9975-6B18E2A4CE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FBD43566-7BDD-4177-9975-6B18E2A4CE5A}.Debug.ActiveCfg = Debug|.NET
+		{FBD43566-7BDD-4177-9975-6B18E2A4CE5A}.Debug.Build.0 = Debug|.NET
+		{FBD43566-7BDD-4177-9975-6B18E2A4CE5A}.Release.ActiveCfg = Release|.NET
+		{FBD43566-7BDD-4177-9975-6B18E2A4CE5A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

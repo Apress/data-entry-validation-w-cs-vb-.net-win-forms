@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photo-c", "Photo-c.csproj", "{90FE4910-4631-4305-937B-11515F212035}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{90FE4910-4631-4305-937B-11515F212035}.Debug.ActiveCfg = Debug|.NET
+		{90FE4910-4631-4305-937B-11515F212035}.Debug.Build.0 = Debug|.NET
+		{90FE4910-4631-4305-937B-11515F212035}.Release.ActiveCfg = Release|.NET
+		{90FE4910-4631-4305-937B-11515F212035}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

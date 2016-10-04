@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vlad-vb", "Vlad-vb.vbproj", "{945A45E6-53BB-4796-93BB-ED87BAD89538}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VladTester-vb", "..\VladTester-vb\VladTester-vb.vbproj", "{2FE422FC-EFBD-483D-A3DF-63A504435076}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{945A45E6-53BB-4796-93BB-ED87BAD89538}.Debug.ActiveCfg = Debug|.NET
+		{945A45E6-53BB-4796-93BB-ED87BAD89538}.Debug.Build.0 = Debug|.NET
+		{945A45E6-53BB-4796-93BB-ED87BAD89538}.Release.ActiveCfg = Release|.NET
+		{945A45E6-53BB-4796-93BB-ED87BAD89538}.Release.Build.0 = Release|.NET
+		{2FE422FC-EFBD-483D-A3DF-63A504435076}.Debug.ActiveCfg = Debug|.NET
+		{2FE422FC-EFBD-483D-A3DF-63A504435076}.Debug.Build.0 = Debug|.NET
+		{2FE422FC-EFBD-483D-A3DF-63A504435076}.Release.ActiveCfg = Release|.NET
+		{2FE422FC-EFBD-483D-A3DF-63A504435076}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

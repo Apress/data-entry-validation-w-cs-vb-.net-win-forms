@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accessibility-c", "Accessibility-c.csproj", "{0362B14D-0735-4C82-BCF4-6619F35040A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0362B14D-0735-4C82-BCF4-6619F35040A4}.Debug.ActiveCfg = Debug|.NET
+		{0362B14D-0735-4C82-BCF4-6619F35040A4}.Debug.Build.0 = Debug|.NET
+		{0362B14D-0735-4C82-BCF4-6619F35040A4}.Release.ActiveCfg = Release|.NET
+		{0362B14D-0735-4C82-BCF4-6619F35040A4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

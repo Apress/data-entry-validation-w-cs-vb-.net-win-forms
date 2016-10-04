@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging-c", "Logging-c.csproj", "{3CDFA416-6F0E-43C5-AF01-151C67F3EB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3CDFA416-6F0E-43C5-AF01-151C67F3EB8E}.Debug.ActiveCfg = Debug|.NET
+		{3CDFA416-6F0E-43C5-AF01-151C67F3EB8E}.Debug.Build.0 = Debug|.NET
+		{3CDFA416-6F0E-43C5-AF01-151C67F3EB8E}.Release.ActiveCfg = Release|.NET
+		{3CDFA416-6F0E-43C5-AF01-151C67F3EB8E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

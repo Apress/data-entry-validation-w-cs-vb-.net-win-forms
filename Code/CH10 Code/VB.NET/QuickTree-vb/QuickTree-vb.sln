@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QuickTree-vb", "QuickTree-vb.vbproj", "{484232CB-FE2E-4266-AAB6-18176BB96AF4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QuickTreeTester", "..\QuickTreeTester\QuickTreeTester.vbproj", "{55235CEA-F18A-40A6-A113-3B9022B9586B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{484232CB-FE2E-4266-AAB6-18176BB96AF4}.Debug.ActiveCfg = Debug|.NET
+		{484232CB-FE2E-4266-AAB6-18176BB96AF4}.Debug.Build.0 = Debug|.NET
+		{484232CB-FE2E-4266-AAB6-18176BB96AF4}.Release.ActiveCfg = Release|.NET
+		{484232CB-FE2E-4266-AAB6-18176BB96AF4}.Release.Build.0 = Release|.NET
+		{55235CEA-F18A-40A6-A113-3B9022B9586B}.Debug.ActiveCfg = Debug|.NET
+		{55235CEA-F18A-40A6-A113-3B9022B9586B}.Debug.Build.0 = Debug|.NET
+		{55235CEA-F18A-40A6-A113-3B9022B9586B}.Release.ActiveCfg = Release|.NET
+		{55235CEA-F18A-40A6-A113-3B9022B9586B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

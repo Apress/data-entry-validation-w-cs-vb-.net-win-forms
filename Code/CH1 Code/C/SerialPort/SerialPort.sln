@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialPort", "SerialPort.csproj", "{71992018-B96B-4B19-B118-F55557D1CEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{71992018-B96B-4B19-B118-F55557D1CEDC}.Debug.ActiveCfg = Debug|.NET
+		{71992018-B96B-4B19-B118-F55557D1CEDC}.Debug.Build.0 = Debug|.NET
+		{71992018-B96B-4B19-B118-F55557D1CEDC}.Release.ActiveCfg = Release|.NET
+		{71992018-B96B-4B19-B118-F55557D1CEDC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

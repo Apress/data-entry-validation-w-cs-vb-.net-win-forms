@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTreeTester", "QuickTreeTester.csproj", "{6F889CB6-449E-4ED6-A391-BAAFF61985B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6F889CB6-449E-4ED6-A391-BAAFF61985B2}.Debug.ActiveCfg = Debug|.NET
+		{6F889CB6-449E-4ED6-A391-BAAFF61985B2}.Debug.Build.0 = Debug|.NET
+		{6F889CB6-449E-4ED6-A391-BAAFF61985B2}.Release.ActiveCfg = Release|.NET
+		{6F889CB6-449E-4ED6-A391-BAAFF61985B2}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
